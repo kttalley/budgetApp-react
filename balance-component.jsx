@@ -1,7 +1,7 @@
 const Balance = (props) => {
-    // var style = {
-    //     color: props.total > 0 ? 'green' : 'red' 
-    // };
+    var style = {
+        color: props.total > 0 ? 'green' : 'red' 
+    };
 
     return (
         <span>
